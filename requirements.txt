@@ -1,0 +1,7 @@
+streamlit
+numpy
+pandas
+keras
+tensorflow
+scikit-learn as sklearn
+from tensorflow.keras.models import load_model
